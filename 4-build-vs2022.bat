@@ -1,0 +1,1 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Msbuild\Current\Bin\MSBuild.exe" .\llvm\build\tools\clang\tools\clang-style-checker\clang-style-checker.vcxproj /property:Configuration=MinSizeRel
