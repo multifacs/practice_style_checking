@@ -13,7 +13,7 @@ target_link_libraries(clang-style-checker
   clangRewrite
   clangTooling
   clangToolingCore
-  clangToolingRefactor
+  clangToolingRefactoring
   clangAST
   clangDriver
   clangRewriteFrontend
